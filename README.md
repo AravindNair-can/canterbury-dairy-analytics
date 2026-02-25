@@ -22,17 +22,6 @@ The analytics focus is not theoretical optimisation, but practical insight gener
 
 ---
 
-## What This Project Demonstrates
-This project demonstrates the ability to:
-- translate real-world operational systems into structured data models,
-- design analytics around business questions rather than tools,
-- analyse production volatility and efficiency drivers,
-- communicate insights clearly and transparently,
-- structure an analytics project for long-term scalability.
-
-The emphasis is on analytical thinking, problem framing, and system design rather than isolated technical features.
-
----
 
 ## Current Scope and Roadmap
 **Current scope:**
